@@ -1,1 +1,4 @@
-# tup_prog_1_2024_guia6
+# Guía 6. Iterativos en c# (sin vectores)
+
+
+[Enunciado](https://docs.google.com/document/d/1juotQ7-EI8h7bOBTUZgnai8U-rMemXLF/preview)
